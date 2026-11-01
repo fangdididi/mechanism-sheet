@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="484" viewBox="0 0 880 484" font-family="sans-serif">
+<rect width="100%" height="100%" fill="#f6f4ef"/>
+<rect x="0" y="0" width="220" height="242" fill="none" stroke="#ddd"/>
+<line x1="41.6" y1="110.0" x2="139.3" y2="110.0" stroke="#999" stroke-dasharray="3 3"/>
+<polyline points="41.6,110.0 61.1,110.0 143.7,71.1 139.3,110.0" fill="none" stroke="#222" stroke-width="2.5"/>
+<line x1="143.7" y1="71.1" x2="139.3" y2="110.0" stroke="#d2552b" stroke-width="3"/>
+<text x="8" y="235" font-size="12" fill="#333">driver = 0.0 deg</text>
+<rect x="220" y="0" width="220" height="242" fill="none" stroke="#ddd"/>
+<line x1="261.6" y1="110.0" x2="359.3" y2="110.0" stroke="#999" stroke-dasharray="3 3"/>
+<polyline points="261.6,110.0 275.6,96.4 363.3,71.1 359.3,110.0" fill="none" stroke="#222" stroke-width="2.5"/>
+<line x1="363.3" y1="71.1" x2="359.3" y2="110.0" stroke="#d2552b" stroke-width="3"/>
+<text x="228" y="235" font-size="12" fill="#333">driver = 44.0 deg</text>
+<rect x="440" y="0" width="220" height="242" fill="none" stroke="#ddd"/>
+<line x1="481.6" y1="110.0" x2="579.3" y2="110.0" stroke="#999" stroke-dasharray="3 3"/>
+<polyline points="481.6,110.0 482.2,90.5 571.5,71.7 579.3,110.0" fill="none" stroke="#222" stroke-width="2.5"/>
+<line x1="571.5" y1="71.7" x2="579.3" y2="110.0" stroke="#d2552b" stroke-width="3"/>
+<text x="448" y="235" font-size="12" fill="#333">driver = 88.0 deg</text>
+<rect x="660" y="0" width="220" height="242" fill="none" stroke="#ddd"/>
+<line x1="701.6" y1="110.0" x2="799.3" y2="110.0" stroke="#999" stroke-dasharray="3 3"/>
+<polyline points="701.6,110.0 687.5,96.4 776.9,78.0 799.3,110.0" fill="none" stroke="#222" stroke-width="2.5"/>
+<line x1="776.9" y1="78.0" x2="799.3" y2="110.0" stroke="#d2552b" stroke-width="3"/>
+<text x="668" y="235" font-size="12" fill="#333">driver = 136.0 deg</text>
+<rect x="0" y="242" width="220" height="242" fill="none" stroke="#ddd"/>
+<line x1="41.6" y1="352.0" x2="139.3" y2="352.0" stroke="#999" stroke-dasharray="3 3"/>
+<polyline points="41.6,352.0 22.0,352.0 109.6,326.5 139.3,352.0" fill="none" stroke="#222" stroke-width="2.5"/>
+<line x1="109.6" y1="326.5" x2="139.3" y2="352.0" stroke="#d2552b" stroke-width="3"/>
+<text x="8" y="477" font-size="12" fill="#333">driver = 180.0 deg</text>
+<rect x="220" y="242" width="220" height="242" fill="none" stroke="#ddd"/>
+<line x1="261.6" y1="352.0" x2="359.3" y2="352.0" stroke="#999" stroke-dasharray="3 3"/>
+<polyline points="261.6,352.0 247.5,365.6 329.9,326.3 359.3,352.0" fill="none" stroke="#222" stroke-width="2.5"/>
+<line x1="329.9" y1="326.3" x2="359.3" y2="352.0" stroke="#d2552b" stroke-width="3"/>
+<text x="228" y="477" font-size="12" fill="#333">driver = 224.0 deg</text>
+<rect x="440" y="242" width="220" height="242" fill="none" stroke="#ddd"/>
+<line x1="481.6" y1="352.0" x2="579.3" y2="352.0" stroke="#999" stroke-dasharray="3 3"/>
+<polyline points="481.6,352.0 482.2,371.5 557.3,319.7 579.3,352.0" fill="none" stroke="#222" stroke-width="2.5"/>
+<line x1="557.3" y1="319.7" x2="579.3" y2="352.0" stroke="#d2552b" stroke-width="3"/>
+<text x="448" y="477" font-size="12" fill="#333">driver = 272.0 deg</text>
+<rect x="660" y="242" width="220" height="242" fill="none" stroke="#ddd"/>
+<line x1="701.6" y1="352.0" x2="799.3" y2="352.0" stroke="#999" stroke-dasharray="3 3"/>
+<polyline points="701.6,352.0 715.6,365.6 790.8,313.8 799.3,352.0" fill="none" stroke="#222" stroke-width="2.5"/>
+<line x1="790.8" y1="313.8" x2="799.3" y2="352.0" stroke="#d2552b" stroke-width="3"/>
+<text x="668" y="477" font-size="12" fill="#333">driver = 316.0 deg</text>
+</svg>

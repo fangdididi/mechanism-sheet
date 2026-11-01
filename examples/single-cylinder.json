@@ -1,0 +1,16 @@
+{
+  "name": "Single-cylinder 125 cc engine (explainer)",
+  "units": "mm",
+  "driver": {"name": "crank angle", "from": 0, "to": 360, "steps": 72, "rpm": 6000},
+  "parts": [
+    {"id": "piston", "type": "slider_crank", "crank": 27.4, "rod": 97, "offset": 0, "source": "datasheet",
+     "note": "bore 52.4 x stroke 54.8 from the service manual; rod centre-to-centre measured on a spare"},
+    {"id": "cam_drive", "type": "gear_pair", "module": 1, "z1": 18, "z2": 36, "centre_distance": 27, "source": "drawing",
+     "note": "cam turns at half crank speed"}
+  ],
+  "claims": [
+    {"part": "piston", "quantity": "stroke", "value": 54.8, "tol": 0.005, "said_by": "spec sheet"},
+    {"part": "cam_drive", "quantity": "ratio", "value": 2, "said_by": "script line 4"},
+    {"part": "piston", "quantity": "mean_slider_speed_per_s", "value": 15000, "tol": 0.05, "said_by": "draft caption: 15 m/s"}
+  ]
+}

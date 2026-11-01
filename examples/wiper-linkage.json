@@ -1,0 +1,12 @@
+{
+  "name": "Windscreen wiper crank-rocker",
+  "units": "mm",
+  "driver": {"name": "motor crank", "from": 0, "to": 360, "steps": 90},
+  "parts": [
+    {"id": "wiper", "type": "four_bar", "ground": 300, "crank": 60, "coupler": 280, "rocker": 120,
+     "branch": "open", "source": "estimated", "note": "scaled from a photo against a 600 mm blade"}
+  ],
+  "claims": [
+    {"part": "wiper", "quantity": "swing", "value": 90, "tol": 0.05, "said_by": "storyboard frame 3"}
+  ]
+}
